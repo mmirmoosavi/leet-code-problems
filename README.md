@@ -19,10 +19,10 @@ LeetCode is a platform for preparing technical coding interviews. This repositor
 The repository is structured as follows:
 ``` 
 ├── leetcode-solutions-python
-    ├── problem1.py
-    ├── problem2.py
-    ├── problem3.py
-    ├── problem4.py
+    ├── 1351-count-negative-numbers-in-a-sorted-matrix.py
+    ├── 2_problem.py
+    ├── 3_problem.py
+    ├── 4_problem.py
 
 ```
 
@@ -46,12 +46,12 @@ Each file is named according to the LeetCode problem it solves and contains:
     ```
 3. **Open a Solution File**: Open any of the solution files to view the code. For example:
     ```bash
-    cat problem_1.py
+    cat 1351-count-negative-numbers-in-a-sorted-matrix.py
     ```
 
 4. **Run the Code**: You can run the Python code using any Python interpreter. For example:
     ```bash
-    python problem_2.py
+    python 1351-count-negative-numbers-in-a-sorted-matrix.py
     ```
 
 ## Contributing
